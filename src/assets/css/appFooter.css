@@ -1,0 +1,14 @@
+.footerContainer{
+    color:#fff;
+    background-color:#089a8f;
+    font-weight:bold;
+    height:50px;
+    width:100%;
+    text-align: center;
+}
+
+.footerTitle{
+    vertical-align:middle;
+    margin:0px;
+    padding-top: 15px;
+}
